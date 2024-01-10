@@ -15,6 +15,21 @@
   </div>
 </template>
 
+<template>
+  <div class="a">
+    <img
+      src="https://3.files.edl.io/989c/20/03/19/114812-30708864-cc30-4eeb-8975-6e7ff636fbd4.jpg"
+      alt="icon"
+    />
+    <h2>SITHS | Game Dev</h2>
+    <p>SITHS Game Dev introduces you to the newly released website.</p>
+    <div class="l">
+      <a href="https://discord.gg/hcj7bh6qdV" target="_blank">Join Discord!</a
+      ><a>Features</a>
+    </div>
+  </div>
+</template>
+
 <style scoped>
 .a {
   display: flex;
