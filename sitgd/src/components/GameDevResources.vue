@@ -43,7 +43,7 @@
   border-radius: 10px;
   width: fit-content;
   min-height: 30rem;
-  backdrop-filter: blur(20px);
+  backdrop-filter: blur(27px);
   border: 1px solid var(--vt-c-red);
 }
 h2 {

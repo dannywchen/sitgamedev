@@ -1,4 +1,4 @@
-<script>
+<script setup>
 import { RouterLink, RouterView } from "vue-router";
 </script>
 
@@ -23,8 +23,7 @@ import { RouterLink, RouterView } from "vue-router";
     <span class="copyright">SITHS Game Dev © 2024</span>
     <br />
     <span class="credits"
-      >Website made by Danny Chen - MeritOfDragons#6339 <br />
-      Ryan Chen - .xosos.
+      >Website made by Danny Chen - MeritOfDragons#6339, Ryan Chen - .xosos.
     </span>
   </footer>
 </template>
