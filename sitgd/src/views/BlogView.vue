@@ -1,6 +1,6 @@
 <script setup>
-import GameDevResources from '../components/GameDevResources.vue'
-import Blog from '../components/BlogComponent.vue'
+import GameDevResources from "../components/GameDevResources.vue";
+import Blog from "../components/BlogComponent.vue";
 </script>
 
 <template>
@@ -16,7 +16,7 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  background: url(https://cdn.discordapp.com/attachments/1059117689286692885/1190436426664382506/ca67da4c3766a5132a80cd71d6a726a1.jpg?ex=65a1cb51&is=658f5651&hm=1be5e31adf51336ae147eb725f855430301018d86c612aaa6c04bde381b6028a&);
+  background: url("https://cdn2.unrealengine.com/darkworld-4k-3840x2160-2ed69bbba703.jpg?resize=1&w=1920");
   background-size: cover;
   background-position: center;
 }
