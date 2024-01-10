@@ -8,8 +8,9 @@
     />
     <h2>SITHS | Game Dev</h2>
     <p>SITHS Game Dev introduces you to the newly released website.</p>
-    <div class="buttons">
-      <button>Join Discord!</button><button>Features</button>
+    <div class="l">
+      <a href="https://discord.gg/hcj7bh6qdV" target="_blank">Join Discord!</a
+      ><a>Features</a>
     </div>
   </div>
 </template>
@@ -36,12 +37,12 @@ h2 {
 p {
   color: white;
 }
-.buttons {
+.l {
   display: flex;
   flex-direction: row;
   padding: 1rem;
 }
-button {
+a {
   display: inline-block;
   margin: 5px;
   padding: 0.375rem 0.75rem;

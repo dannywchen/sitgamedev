@@ -40,6 +40,10 @@ export default {};
   min-height: 30rem;
   backdrop-filter: blur(27px);
   border: 1px solid var(--vt-c-red);
+  transition-duration: 0.3s;
+}
+.container:hover {
+  transform: scale(1.01);
 }
 h2 {
   color: white;
