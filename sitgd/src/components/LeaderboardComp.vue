@@ -47,7 +47,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-1"></div>
           </div>
-          <div class="progress-value">299 points</div>
+          <div class="progress-value">100 points</div>
         </div>
       </div>
       <div class="rank">
@@ -57,7 +57,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-2"></div>
           </div>
-          <div class="progress-value">250 points</div>
+          <div class="progress-value">99 points</div>
         </div>
       </div>
       <div class="rank">
@@ -67,7 +67,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-3"></div>
           </div>
-          <div class="progress-value">230 points</div>
+          <div class="progress-value">95 points</div>
         </div>
       </div>
       <div class="rank">
@@ -77,7 +77,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-4"></div>
           </div>
-          <div class="progress-value">222 points</div>
+          <div class="progress-value">50 points</div>
         </div>
       </div>
       <div class="rank">
@@ -87,111 +87,111 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-5"></div>
           </div>
-          <div class="progress-value">198 points</div>
+          <div class="progress-value">48 points</div>
         </div>
       </div>
     </div>
     <div v-if="group2Vis" class="rank-group">
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>6. Ching Chen</p>
+        <p>6. Jonathan Liu</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-6"></div>
           </div>
-          <div class="progress-value">179 points</div>
+          <div class="progress-value">47 points</div>
         </div>
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>7. Ming Yang</p>
+        <p>7. Katherine Z</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-7"></div>
           </div>
-          <div class="progress-value">170 points</div>
+          <div class="progress-value">0 points</div>
         </div>
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>8. Xiao Mai Nu</p>
+        <p>8. Abdul T</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-8"></div>
           </div>
-          <div class="progress-value">160 points</div>
+          <div class="progress-value">0 points</div>
         </div>
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>9. literally the goat</p>
+        <p>9. Andrew Chen</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-9"></div>
           </div>
-          <div class="progress-value">152 points</div>
+          <div class="progress-value">0 points</div>
         </div>
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>10. leo is the goat</p>
+        <p>10. Ben F</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-10"></div>
           </div>
-          <div class="progress-value">148 points</div>
+          <div class="progress-value">0 points</div>
         </div>
       </div>
     </div>
     <div v-if="group3Vis" class="rank-group">
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>11. Chen</p>
+        <p>11. Patrick Lian</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill3 progress-fill-11"></div>
           </div>
-          <div class="progress-value">79 points</div>
+          <div class="progress-value">0 points</div>
         </div>
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>12. Yang</p>
+        <p>12. Jake</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill3 progress-fill-12"></div>
           </div>
-          <div class="progress-value">70 points</div>
+          <div class="progress-value">0 points</div>
         </div>
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>13. Xiao</p>
+        <p>13. Max</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill3 progress-fill-13"></div>
           </div>
-          <div class="progress-value">60 points</div>
+          <div class="progress-value">0 points</div>
         </div>
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>14. goat</p>
+        <p>14. Ethan De Jesus</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill3 progress-fill-14"></div>
           </div>
-          <div class="progress-value">52 points</div>
+          <div class="progress-value">0 points</div>
         </div>
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>15. the goat</p>
+        <p>15. Firdavs M</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill3 progress-fill-15"></div>
           </div>
-          <div class="progress-value">48 points</div>
+          <div class="progress-value">0 points</div>
         </div>
       </div>
     </div>
@@ -400,47 +400,47 @@ p {
 }
 @keyframes fillProgress7 {
   to {
-    width: 65%;
+    width: 0%;
   }
 }
 @keyframes fillProgress8 {
   to {
-    width: 60%;
+    width: 0%;
   }
 }
 @keyframes fillProgress9 {
   to {
-    width: 55%;
+    width: 0%;
   }
 }
 @keyframes fillProgress10 {
   to {
-    width: 50%;
+    width: 0%;
   }
 }
 @keyframes fillProgress11 {
   to {
-    width: 45%;
+    width: 0%;
   }
 }
 @keyframes fillProgress12 {
   to {
-    width: 40%;
+    width: 0%;
   }
 }
 @keyframes fillProgress13 {
   to {
-    width: 35%;
+    width: 0%;
   }
 }
 @keyframes fillProgress14 {
   to {
-    width: 30%;
+    width: 0%;
   }
 }
 @keyframes fillProgress15 {
   to {
-    width: 25%;
+    width: 0%;
   }
 }
 </style>
