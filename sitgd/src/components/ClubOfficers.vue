@@ -6,7 +6,9 @@
       <h2>Club Advisor</h2>
       <div class="profile">
         <div class="img">
-          <img src="C:\Users\ryanc\Pictures\Screenshots\buro.png" />
+          <img
+            src="https://www.sitechcad.com/uploads/1/3/2/8/132889395/published/buro-joseph.jpg?1595296031"
+          />
         </div>
         <h3>Mr. Buro</h3>
         <p>Advisor</p>
