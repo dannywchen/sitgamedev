@@ -21,7 +21,7 @@
         <div class="profile">
           <div class="img">
             <img
-              src="https://cdn.discordapp.com/attachments/1059117689286692885/1190511469201211483/9a3e9bc7288f5da24d96617ea8c5452a.png?ex=65a21134&is=658f9c34&hm=22252e1ed582c70f77660bd01c9c8de9e5fa73df12fe58780425c311ef771498"
+              src="https://cdn.discordapp.com/attachments/773982732837584898/1194667754012282951/IMG_6549.jpg?ex=65b1300c&is=659ebb0c&hm=1062bf3d8e47858312b05f2e3c6f4d4fa7d60a2a06dc56a2805215ba6a89a4e3&"
             />
           </div>
           <h3>Leo Yang</h3>
@@ -39,14 +39,14 @@
         <div class="profile">
           <div class="img">
             <img
-              src="https://cdn.discordapp.com/attachments/1059117689286692885/1190511525677506590/OIP.png?ex=65a21142&is=658f9c42&hm=fb9880d9c3200c1ff70b843dea5ad52f0c87536b3af5aacc377ab10d8f106286"
+              src="https://cdn.discordapp.com/attachments/773982732837584898/1194667580280016986/IMG_5603.JPG?ex=65b12fe2&is=659ebae2&hm=4c806d25922041cd9dc0a52e01a36d76db1f4b368e96ea04b164515bf780000a&"
             />
           </div>
           <h3>Jack Shen</h3>
           <p>Co-President</p>
         </div>
         <div class="profile">
-          <div class="img"><img src="" /></div>
+          <div class="img"><img src="https://cdn.discordapp.com/attachments/773982732837584898/1194668711802576896/IMG_6550.png?ex=65b130f0&is=659ebbf0&hm=1f2eaf34ec85eda689cfcdbf32281a7129df17517b226408b6bd612dcbe44739&" /></div>
           <h3>Danny Chen</h3>
           <p>Vice President</p>
         </div>
@@ -56,7 +56,7 @@
           <p>Event Coordinator</p>
         </div>
         <div class="profile">
-          <div class="img"><img src="" /></div>
+          <div class="img"><img src="https://cdn.discordapp.com/attachments/917589799299321897/1194667073926877204/image.png?ex=65b12f6a&is=659eba6a&hm=db6566d5f4589051d54a49a55691f790b49b803c5643bd4a4cb31d09de37d035&" /></div>
           <h3>Jonathan Liu</h3>
           <p>Secretary</p>
         </div>
