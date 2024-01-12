@@ -11,6 +11,6 @@ import Home from "../components/TheHome.vue";
 
 <style scoped>
 main {
-  padding: 10rem 0 70px 0;
+  padding: 10rem 0 0 0;
 }
 </style>

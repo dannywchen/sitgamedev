@@ -9,8 +9,9 @@
     <h2>SITHS | Game Dev</h2>
     <p>SITHS Game Dev introduces you to the newly released website.</p>
     <div class="l">
-      <a href="https://discord.gg/hcj7bh6qdV" target="_blank">Join Discord!</a
-      ><a href="#features-section">Features</a>
+      <a class="link" href="https://discord.gg/hcj7bh6qdV" target="_blank"
+        >Join Discord!</a
+      ><a class="link" href="#features-section">Features</a>
     </div>
   </section>
   <section id="features-section">
@@ -26,6 +27,34 @@
       />
     </svg>
     <h2>Features</h2>
+    <div class="cards">
+      <div class="card">
+        <div class="logo"></div>
+        <h3 class="title">Purpose</h3>
+        <p class="description">
+          This is the public release - full fledged website for SITH Game Dev!
+          Enjoy and embrace the rich features. More components will be added.
+          Please answer this google form for any additional features you would
+          like to see being added:
+          <a href="https://forms.gle/nAT2tGQ69Db7i9KYA" target="_blank">Form</a>
+        </p>
+      </div>
+      <div class="card">
+        <div class="logo"></div>
+        <h3 class="title">Trusted</h3>
+        <p class="description">Created by Danny, trusted vice president!</p>
+      </div>
+      <div class="card">
+        <div class="logo"></div>
+        <h3 class="title">Blog/Leaderboard</h3>
+        <p class="description">
+          The blog will be updated from time to time, which provides deep
+          insight on unreal engine 5 or ame dev news. There is also a
+          leaderboard updated weekly to see who dominates in the competitive
+          scene.
+        </p>
+      </div>
+    </div>
   </section>
 </template>
 
@@ -35,7 +64,6 @@
   flex-direction: column;
   align-items: center;
   width: auto;
-  padding-bottom: 5rem;
 }
 img {
   height: 10rem;
@@ -48,16 +76,14 @@ h2 {
   font-size: 40px;
   margin-bottom: 0;
   color: white;
-}
-p {
-  color: white;
+  text-align: center;
 }
 .l {
   display: flex;
   flex-direction: row;
   padding: 1rem;
 }
-a {
+.link {
   display: inline-block;
   margin: 5px;
   padding: 0.375rem 0.75rem;
@@ -70,10 +96,30 @@ a {
 svg {
   background-color: var(--color-background-mute);
   width: 100%;
+  margin-bottom: 2rem;
 }
 
 #features-section {
   height: 50vw;
   background-color: var(--color-background-mute);
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 25%;
+  background: var(--color-background);
+  border-radius: 10px;
+  padding: 2rem;
+}
+.card h3 {
+  margin-bottom: 1rem;
 }
 </style>

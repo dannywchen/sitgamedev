@@ -16,7 +16,7 @@ export default {};
       Explore the features and let us know your feedback. Website is still being
       developed and is constantly adding new features. If you want anything to
       be added, fill this:
-      <a href="https://forms.gle/nAT2tGQ69Db7i9KYA">Form</a>
+      <a href="https://forms.gle/nAT2tGQ69Db7i9KYA" target="_blank">Form</a>
     </p>
 
     <br />

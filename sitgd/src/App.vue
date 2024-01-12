@@ -50,7 +50,7 @@ h1 {
   flex-direction: row;
   align-items: center;
   padding: 1.5rem 1rem 0.35rem 1rem;
-  border-top-color: #f54254;
+  border-top-color: var(--c-red);
   border-top-style: solid;
 }
 
@@ -77,6 +77,7 @@ footer {
   justify-content: center;
   align-items: center;
   padding: 20px;
+  background: var(--color-background-mute);
 }
 span {
   color: var(--color-text);

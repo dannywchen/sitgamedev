@@ -9,30 +9,35 @@
     </p>
     <br />
     <div class="list">
-      <a href="https://www.unrealengine.com/en-US/unreal-engine-5"
+      <a
+        href="https://www.unrealengine.com/en-US/unreal-engine-5"
+        target="_blank"
         >Unreal Engine 5</a
       >
-      <a href="https://docs.unrealengine.com/5.0/en-US/"
+      <a href="https://docs.unrealengine.com/5.0/en-US/" target="_blank"
         >Unreal Documentation</a
       >
-      <a href="https://www.unrealengine.com/marketplace/en-US/free"
+      <a
+        href="https://www.unrealengine.com/marketplace/en-US/free"
+        target="_blank"
         >Unreal Engine 5 Free Marketplace</a
       >
-      <a href="https://www.youtube.com/watch?v=k-zMkzmduqI"
+      <a href="https://www.youtube.com/watch?v=k-zMkzmduqI" target="_blank"
         >Unreal Sensei 5 Hour</a
       >
       <a
         href="https://www.youtube.com/watch?v=1cfPiofNy-U&t=328s&pp=ygUqaG93IHRvIG1ha2Ugb3BlbiB3b3JsZCBnYW1lIHVucmVhbCBuZ2luZSA1"
+        target="_blank"
         >Open World Game Tutorial</a
       >
-      <a href="https://www.youtube.com/watch?v=whHWEObyIbQ"
+      <a href="https://www.youtube.com/watch?v=whHWEObyIbQ" target="_blank"
         >FPS Game Tutorial</a
       >
       <a
-        href="https://www.youtube.com/watch?v=tVH0VTY-c8o&pp=ygUhaG93IHRvIG1ha2UgMmQgZ2FtZSB1bnJlYWwgZW5naW5l"
+        href="https://www.youtube.com/watch?v=tVH0VTY-c8o&pp=ygUhaG93IHRvIG1ha2UgMmQgZ2FtZSB1bnJlYWwgZW5naW5l" target="_blank"
         >2D Game Tutorial</a
       >
-      <a href="https://discord.gg/hcj7bh6qdV">SITHS Game Dev Discord Server</a>
+      <a href="https://discord.gg/hcj7bh6qdV" target="_blank">SITHS Game Dev Discord Server</a>
     </div>
   </div>
 </template>
