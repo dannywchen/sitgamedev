@@ -3,29 +3,31 @@ import { RouterLink, RouterView } from "vue-router";
 </script>
 
 <template>
-  <header>
-    <div class="wrapper">
-      <h1>SITH | Game Dev</h1>
+  <div class="all">
+    <header>
+      <div class="wrapper">
+        <h1>SITHS | Game Dev</h1>
 
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/blog">Blog</RouterLink>
-        <RouterLink to="/leaderboard">Leaderboard</RouterLink>
-        <RouterLink to="/aboutus">About Us</RouterLink>
-        <a href="https://discord.gg/hcj7bh6qdV" target="_blank">Join</a>
-      </nav>
-    </div>
-  </header>
+        <nav>
+          <RouterLink to="/">Home</RouterLink>
+          <RouterLink to="/blog">Blog</RouterLink>
+          <RouterLink to="/leaderboard">Leaderboard</RouterLink>
+          <RouterLink to="/aboutus">About Us</RouterLink>
+          <a href="https://discord.gg/hcj7bh6qdV" target="_blank">Join</a>
+        </nav>
+      </div>
+    </header>
 
-  <RouterView />
+    <RouterView />
 
-  <footer>
-    <span class="copyright">SITHS Game Dev © 2024</span>
-    <br />
-    <span class="credits"
-      >Website made by Danny Chen - MeritOfDragons#6339, Ryan Chen - .xosos.
-    </span>
-  </footer>
+    <footer>
+      <span class="copyright">SITHS Game Dev © 2024</span>
+      <br />
+      <span class="credits"
+        >Website made by Danny Chen - MeritOfDragons#6339, Ryan Chen - .xosos.
+      </span>
+    </footer>
+  </div>
 </template>
 
 <style scoped>

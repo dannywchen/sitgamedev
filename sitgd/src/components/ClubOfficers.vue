@@ -30,7 +30,7 @@
         <div class="profile">
           <div class="img">
             <img
-              src="https://cdn.discordapp.com/attachments/1059117689286692885/1190511510691258388/f5a3dd4dc8d76eb4fc257b380df51e76.png?ex=65a2113e&is=658f9c3e&hm=fc5db08e54f6cb7081c1f3130c0ebc4ef459b241347c7966c6577a13bdc5d623"
+              src="https://cdn.discordapp.com/attachments/773982732837584898/1194667580280016986/IMG_5603.JPG?ex=65b12fe2&is=659ebae2&hm=4c806d25922041cd9dc0a52e01a36d76db1f4b368e96ea04b164515bf780000a&"
             />
           </div>
           <h3>Evan Gao</h3>
@@ -39,14 +39,18 @@
         <div class="profile">
           <div class="img">
             <img
-              src="https://cdn.discordapp.com/attachments/773982732837584898/1194667580280016986/IMG_5603.JPG?ex=65b12fe2&is=659ebae2&hm=4c806d25922041cd9dc0a52e01a36d76db1f4b368e96ea04b164515bf780000a&"
+              src="https://cdn.discordapp.com/attachments/1059117689286692885/1190511525677506590/OIP.png?ex=65a21142&is=658f9c42&hm=fb9880d9c3200c1ff70b843dea5ad52f0c87536b3af5aacc377ab10d8f106286"
             />
           </div>
           <h3>Jack Shen</h3>
           <p>Co-President</p>
         </div>
         <div class="profile">
-          <div class="img"><img src="https://cdn.discordapp.com/attachments/773982732837584898/1194668711802576896/IMG_6550.png?ex=65b130f0&is=659ebbf0&hm=1f2eaf34ec85eda689cfcdbf32281a7129df17517b226408b6bd612dcbe44739&" /></div>
+          <div class="img">
+            <img
+              src="https://cdn.discordapp.com/attachments/773982732837584898/1194668711802576896/IMG_6550.png?ex=65b130f0&is=659ebbf0&hm=1f2eaf34ec85eda689cfcdbf32281a7129df17517b226408b6bd612dcbe44739&"
+            />
+          </div>
           <h3>Danny Chen</h3>
           <p>Vice President</p>
         </div>
@@ -56,7 +60,11 @@
           <p>Event Coordinator</p>
         </div>
         <div class="profile">
-          <div class="img"><img src="https://cdn.discordapp.com/attachments/917589799299321897/1194667073926877204/image.png?ex=65b12f6a&is=659eba6a&hm=db6566d5f4589051d54a49a55691f790b49b803c5643bd4a4cb31d09de37d035&" /></div>
+          <div class="img">
+            <img
+              src="https://cdn.discordapp.com/attachments/917589799299321897/1194667073926877204/image.png?ex=65b12f6a&is=659eba6a&hm=db6566d5f4589051d54a49a55691f790b49b803c5643bd4a4cb31d09de37d035&"
+            />
+          </div>
           <h3>Jonathan Liu</h3>
           <p>Secretary</p>
         </div>
@@ -86,7 +94,7 @@
   margin: 2.5rem 8rem 2.5rem 8rem;
   min-width: 11rem;
   border-radius: 10px;
-  border: 1px solid var(--vt-c-red);
+  border: 1px solid var(--c-red);
   backdrop-filter: blur(50px);
 }
 

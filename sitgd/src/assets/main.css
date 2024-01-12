@@ -4,8 +4,8 @@ body,
 html,
 * {
   scroll-behavior: smooth;
-  scrollbar-color: var(--vt-c-red);
-  color: var(--vt-c-red);
+  scrollbar-color: var(--c-red);
+  color: var(--c-red);
   padding: 0;
   margin: 0;
 }
@@ -25,4 +25,14 @@ a,
   a:hover {
     background-color: hsla(0, 100%, 37%, 0.2);
   }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--c-red);
+}
+::-webkit-scrollbar-track {
+  background: black;
 }

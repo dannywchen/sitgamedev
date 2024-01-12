@@ -207,7 +207,7 @@ export default {
   border-radius: 10px;
   width: 50rem;
   backdrop-filter: blur(3px);
-  border: 1px solid var(--vt-c-red);
+  border: 1px solid var(--c-red);
 }
 h2 {
   font-size: 40px;
@@ -224,23 +224,23 @@ button {
   padding: 0.75rem 1rem;
   border: 1px solid transparent;
   border-radius: 10px;
-  background-color: var(--vt-c-red);
+  background-color: var(--c-red);
   color: white;
   font-weight: 400;
   font-size: 15px;
 }
 button:hover {
   background-color: white;
-  color: var(--vt-c-red);
+  color: var(--c-red);
 }
 button::after {
   background-color: white;
-  color: var(--vt-c-red);
+  color: var(--c-red);
 }
 
 .rank-group {
   border-radius: 10px;
-  background: var(--vt-c-red);
+  background: var(--c-red);
 }
 .rank {
   display: flex;

@@ -12,7 +12,7 @@ import Blog from "../components/BlogComponent.vue";
 
 <style scoped>
 main {
-  padding: 10rem 5rem;
+  padding: 10rem 0 70px 0;
   display: flex;
   flex-direction: row;
   justify-content: space-around;

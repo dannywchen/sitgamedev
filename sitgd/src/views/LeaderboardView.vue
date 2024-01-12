@@ -10,7 +10,7 @@ import Leaderboard from "../components/LeaderboardComp.vue";
 
 <style scoped>
 main {
-  padding: 10rem 5rem;
+  padding: 10rem 0 70px 0;
   display: flex;
   justify-content: center;
   background: url("https://cdn2.unrealengine.com/darkworld-4k-3840x2160-2ed69bbba703.jpg?resize=1&w=1920");
