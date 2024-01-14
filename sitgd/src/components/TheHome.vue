@@ -81,7 +81,7 @@
     <section class="flying-section">
       <div class="flying-content">
         <img
-          src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961822570889356/joy.jpg?ex=65b5e53e&is=65a3703e&hm=2a6859524d501fc5273a61c3cb96d21fda4f36f1aaeb97dc0de4c0c4311e9533&"
+          src="ttps://cdn.discordapp.com/attachments/1103178036809043968/1195961822570889356/joy.jpg?ex=65b5e53e&is=65a3703e&hm=2a6859524d501fc5273a61c3cb96d21fda4f36f1aaeb97dc0de4c0c4311e9533&"
           alt="flying-image"
           class="flying-image"
         />
@@ -122,3 +122,67 @@ h2 {
   display: inline-block;
   margin: 5px;
   padding: 0.375rem 0.75rem;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  background-color: var(--c-red);
+  color: white;
+  font-weight: 400;
+}
+svg {
+  background-color: var(--color-background-mute);
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+#features-section {
+  height: 50vw;
+  background-color: var(--color-background-mute);
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 25%;
+  background: var(--color-background);
+  border-radius: 10px;
+  padding: 2rem;
+}
+.card h3 {
+  margin-bottom: 1rem;
+}
+
+/* Styles for flying section */
+.flying-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-background-mute);
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+.flying-content {
+  display: flex;
+  align-items: center;
+}
+
+.flying-image {
+  height: 8rem;
+  width: 8rem;
+  margin-right: 1rem;
+  /* Add any additional styles for the flying image */
+}
+
+.flying-description {
+  font-size: 18px;
+  color: white;
+  /* Add any additional styles for the flying description */
+}
+</style>
