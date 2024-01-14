@@ -28,16 +28,6 @@
     </svg>
     <h2>Features</h2>
     <div class="cards">
-      <div class="card">
-        <div class="logo"></div>
-        <h3 class="title">Purpose</h3>
-        <p class="description">
-          This is the public release - full fledged website for SITH Game Dev!
-          Enjoy and embrace the rich features. More components will be added.
-          Please answer this google form for any additional features you would
-          like to see being added:
-          <a href="https://forms.gle/nAT2tGQ69Db7i9KYA" target="_blank">Form</a>
-        </p>
       </div>
       <div class="card">
         <div class="logo"></div>
@@ -56,7 +46,25 @@
       </div>
     </div>
   </section>
+  
+  <!-- New section with flying image and text description -->
+  <section class="flying-section">
+    <div class="flying-content">
+      <img
+        src="https://example.com/flying-image.jpg" <!-- Replace with your image URL -->
+        alt="flying-image"
+        class="flying-image"
+      />
+      <p class="flying-description">
+        This is the flying image description. It continuously floats up and down.
+      </p>
+    </div>
+  </section>
 </template>
+
+<style scoped>
+  
+/* original */
 
 <style scoped>
 .a {
@@ -121,5 +129,41 @@ svg {
 }
 .card h3 {
   margin-bottom: 1rem;
+}
+
+
+/* New styles for flying section */
+.flying-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4rem;
+  background-color: var(--color-background-mute);
+}
+
+.flying-content {
+  display: flex;
+  width: 50%;
+}
+
+.flying-image {
+  height: 10rem; /* Adjust the height as needed */
+  aspect-ratio: 1/1;
+  border-radius: 10px;
+  animation: floatUpDown 3s infinite alternate; /* Adjust the animation duration */
+}
+
+@keyframes floatUpDown {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-20px); /* Adjust the floating distance */
+  }
+}
+
+.flying-description {
+  flex: 1;
+  padding: 0 2rem;
 }
 </style>
