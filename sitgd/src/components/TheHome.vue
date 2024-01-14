@@ -76,7 +76,7 @@
       <svg
         width="200vw"
         height="300px"
-        viewbox="0 0 500 250"
+        viewBox="0 0 500 250"
         xmlns="http://www.w3.org/2000/svg"
         >
         <path
