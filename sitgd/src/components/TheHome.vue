@@ -28,6 +28,16 @@
     </svg>
     <h2>Features</h2>
     <div class="cards">
+      <div class="card">
+        <div class="logo"></div>
+        <h3 class="title">Purpose</h3>
+        <p class="description">
+          This is the public release - full-fledged website for SITH Game Dev!
+          Enjoy and embrace the rich features. More components will be added.
+          Please answer this google form for any additional features you would
+          like to see being added:
+          <a href="https://forms.gle/nAT2tGQ69Db7i9KYA" target="_blank">Form</a>
+        </p>
       </div>
       <div class="card">
         <div class="logo"></div>
@@ -39,14 +49,14 @@
         <h3 class="title">Blog/Leaderboard</h3>
         <p class="description">
           The blog will be updated from time to time, which provides deep
-          insight on unreal engine 5 or ame dev news. There is also a
+          insight on unreal engine 5 or game dev news. There is also a
           leaderboard updated weekly to see who dominates in the competitive
           scene.
         </p>
       </div>
     </div>
   </section>
-  
+
   <!-- New section with flying image and text description -->
   <section class="flying-section">
     <div class="flying-content">
@@ -61,10 +71,6 @@
     </div>
   </section>
 </template>
-
-<style scoped>
-  
-/* original */
 
 <style scoped>
 .a {
@@ -131,8 +137,7 @@ svg {
   margin-bottom: 1rem;
 }
 
-
-/* New styles for flying section */
+/* Styles for flying section */
 .flying-section {
   display: flex;
   justify-content: space-between;
@@ -143,7 +148,7 @@ svg {
 
 .flying-content {
   display: flex;
-  width: 50%;
+  width: 100%;
 }
 
 .flying-image {
@@ -166,5 +171,4 @@ svg {
   flex: 1;
   padding: 0 2rem;
 }
-  
 </style>
