@@ -88,20 +88,17 @@
       <h2>Update Schedule</h2>
       <p>Leaderboard gets updated weekly while the website gets updated once every 2 days.</p>
     </section>
-
-    <!-- New section with flying image and text description -->
-    <section class="flying-section">
-      <div class="flying-content">
-        <img
-          src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961822570889356/joy.jpg?ex=65b5e53e&is=65a3703e&hm=2a6859524d501fc5273a61c3cb96d21fda4f36f1aaeb97dc0de4c0c4311e9533&"
-          alt="flying-image"
-          class="flying-image"
+    <div class="flying-content">
+      <img
+        src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961822570889356/joy.jpg?ex=65b5e53e&is=65a3703e&hm=2a6859524d501fc5273a61c3cb96d21fda4f36f1aaeb97dc0de4c0c4311e9533&"
+        alt="flying-image"
+        class="flying-image"
         />
-        <p class="flying-description">
-          This is the flying image description. It continuously floats up and down.
-        </p>
-      </div>
-    </section>
+      <p class="flying-description">
+        This is the flying image description. It continuously floats up and down.
+      </p>
+    </div>
+  </section>
   </div>
 </template>
 
