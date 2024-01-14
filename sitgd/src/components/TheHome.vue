@@ -78,8 +78,11 @@
       ><a class="link" href="#features-section">Features</a>
     </div>
  </section>
+  <section class="example-section">
+    <p>example text</p>
+  </section>
+</div>
 </template>
-
 
 <style scoped>
 .a {
