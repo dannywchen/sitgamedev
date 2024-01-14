@@ -48,7 +48,7 @@
         <div class="logo"></div>
         <h3 class="title">Trusted</h3>
         <img
-      src="https://3.files.edl.io/989c/20/03/19/114812-30708864-cc30-4eeb-8975-6e7ff636fbd4.jpg"
+      src="https://cdn.discordapp.com/attachments/1103178036809043968/1195962083251064832/lock.jpg?ex=65b5e57c&is=65a3707c&hm=78ca2f4a14b4608c92641f78bca8653f953ec6148d5298310f7674858d50171a&"
       alt="icon"
     />
         <p class="description">Created by Danny, trusted vice president!</p>
@@ -57,7 +57,7 @@
         <div class="logo"></div>
         <h3 class="title">Blog/Leaderboard</h3>
         <img
-      src="https://3.files.edl.io/989c/20/03/19/114812-30708864-cc30-4eeb-8975-6e7ff636fbd4.jpg"
+      src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961822570889356/joy.jpg?ex=65b5e53e&is=65a3703e&hm=2a6859524d501fc5273a61c3cb96d21fda4f36f1aaeb97dc0de4c0c4311e9533&"
       alt="icon"
     />
         <p class="description">
