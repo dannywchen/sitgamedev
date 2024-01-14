@@ -81,7 +81,7 @@
     <section class="flying-section">
       <div class="flying-content">
         <img
-          src="ttps://cdn.discordapp.com/attachments/1103178036809043968/1195961822570889356/joy.jpg?ex=65b5e53e&is=65a3703e&hm=2a6859524d501fc5273a61c3cb96d21fda4f36f1aaeb97dc0de4c0c4311e9533&"
+          src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961822570889356/joy.jpg?ex=65b5e53e&is=65a3703e&hm=2a6859524d501fc5273a61c3cb96d21fda4f36f1aaeb97dc0de4c0c4311e9533&"
           alt="flying-image"
           class="flying-image"
         />
