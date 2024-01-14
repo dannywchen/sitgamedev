@@ -71,7 +71,7 @@
           </p>
         </div>
       </div>
-    </section>
+    </div>
     <section class="a">
       <svg
         width="200vw"
