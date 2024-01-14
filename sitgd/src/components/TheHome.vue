@@ -33,7 +33,7 @@
         <div class="logo"></div>
         <h3 class="title">Purpose</h3>
         <img
-      src="https://3.files.edl.io/989c/20/03/19/114812-30708864-cc30-4eeb-8975-6e7ff636fbd4.jpg"
+      src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961508232966174/R.png?ex=65b5e4f3&is=65a36ff3&hm=d83a53a466acf4a44dc6e9cb9771536d3a7654d5d4dff31266feba23be7cd895&"
       alt="icon"
           />
         <p class="description">
