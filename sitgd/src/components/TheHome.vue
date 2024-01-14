@@ -73,6 +73,18 @@
       </div>
     </section>
     <section class="a">
+      <svg
+        width="200vw"
+        height="300px"
+        viewbox="0 0 500 250"
+        xmlns="http://www.w3.org/2000/svg"
+        >
+        <path
+          d="M0,96 L40,112 C100,128,200,160,290,144 C405,128,475,64,595,48 C676,32,705,90,855,100 C1135,100,1115,53,1295,58.7 C1375,64,1455,96,1635,120 C1735,120,1795,64,1864,48 L1964,32 L1964,0 L1964,0 L0,0 "
+          fill="var(--color-background-soft)"
+          fill-opacity="1"
+          />
+      </svg>
       <h2>Update Schedule</h2>
       <p>Leaderboard gets updated weekly while the website gets updated once every 2 days.</p>
     </section>
