@@ -70,18 +70,10 @@
     </div>
   </section>
   <section class="a">
-    <h2>SITHS | Game Dev</h2>
-    <p>SITHS Game Dev introduces you to the newly released website.</p>
-    <div class="l">
-      <a class="link" href="https://discord.gg/hcj7bh6qdV" target="_blank"
-        >Join Discord!</a
-      ><a class="link" href="#features-section">Features</a>
+    <h2>Update Schedule</h2>
+    <p>Leaderboard gets updated weekly while website gets updated once 2 days.</p>
     </div>
  </section>
-  <section class="example-section">
-    <p>example text</p>
-  </section>
-</div>
 </template>
 
 <style scoped>
