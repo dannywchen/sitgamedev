@@ -1,4 +1,5 @@
-<script setup></script>
+<script setup>
+</script>
 
 <template>
   <div>
@@ -19,7 +20,7 @@
       <svg
         width="200vw"
         height="300px"
-        viewbox="0 0 500 250"
+        viewBox="0 0 500 250"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
@@ -71,19 +72,19 @@
           </p>
         </div>
       </div>
-    </div>
+    </section>
     <section class="a">
       <svg
         width="200vw"
         height="300px"
         viewBox="0 0 500 250"
         xmlns="http://www.w3.org/2000/svg"
-        >
+      >
         <path
           d="M0,96 L40,112 C100,128,200,160,290,144 C405,128,475,64,595,48 C676,32,705,90,855,100 C1135,100,1115,53,1295,58.7 C1375,64,1455,96,1635,120 C1735,120,1795,64,1864,48 L1964,32 L1964,0 L1964,0 L0,0 "
           fill="var(--color-background-soft)"
           fill-opacity="1"
-          />
+        />
       </svg>
       <h2>Update Schedule</h2>
       <p>Leaderboard gets updated weekly while the website gets updated once every 2 days.</p>
@@ -93,7 +94,7 @@
         src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961822570889356/joy.jpg?ex=65b5e53e&is=65a3703e&hm=2a6859524d501fc5273a61c3cb96d21fda4f36f1aaeb97dc0de4c0c4311e9533&"
         alt="flying-image"
         class="flying-image"
-        />
+      />
       <p class="flying-description">
         This is the flying image description. It continuously floats up and down.
       </p>
@@ -102,95 +103,95 @@
 </template>
 
 <style scoped>
-.a {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: auto;
-}
-img {
-  height: 10rem;
-  aspect-ratio: 1/1;
-  justify-content: center;
-  border-radius: 10px;
-  margin: 0 0 1rem 0;
-}
-h2 {
-  font-size: 40px;
-  margin-bottom: 0;
-  color: white;
-  text-align: center;
-}
-.l {
-  display: flex;
-  flex-direction: row;
-  padding: 1rem;
-}
-.link {
-  display: inline-block;
-  margin: 5px;
-  padding: 0.375rem 0.75rem;
-  border: 1px solid transparent;
-  border-radius: 10px;
-  background-color: var(--c-red);
-  color: white;
-  font-weight: 400;
-}
-svg {
-  background-color: var(--color-background-mute);
-  width: 100%;
-  margin-bottom: 2rem;
-}
+  .a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+  }
+  img {
+    height: 10rem;
+    aspect-ratio: 1/1;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 0 0 1rem 0;
+  }
+  h2 {
+    font-size: 40px;
+    margin-bottom: 0;
+    color: white;
+    text-align: center;
+  }
+  .l {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+  }
+  .link {
+    display: inline-block;
+    margin: 5px;
+    padding: 0.375rem 0.75rem;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: var(--c-red);
+    color: white;
+    font-weight: 400;
+  }
+  svg {
+    background-color: var(--color-background-mute);
+    width: 100%;
+    margin-bottom: 2rem;
+  }
 
-#features-section {
-  height: 50vw;
-  background-color: var(--color-background-mute);
-}
-.cards {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  margin: 0 auto;
-  padding: 2rem 0;
-}
-.card {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  width: 25%;
-  background: var(--color-background);
-  border-radius: 10px;
-  padding: 2rem;
-}
-.card h3 {
-  margin-bottom: 1rem;
-}
+  #features-section {
+    height: 50vw;
+    background-color: var(--color-background-mute);
+  }
+  .cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    padding: 2rem 0;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 25%;
+    background: var(--color-background);
+    border-radius: 10px;
+    padding: 2rem;
+  }
+  .card h3 {
+    margin-bottom: 1rem;
+  }
 
-/* Styles for flying section */
-.flying-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: var(--color-background-mute);
-  padding: 2rem;
-  margin-top: 2rem;
-}
+  /* Styles for flying section */
+  .flying-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-background-mute);
+    padding: 2rem;
+    margin-top: 2rem;
+  }
 
-.flying-content {
-  display: flex;
-  align-items: center;
-}
+  .flying-content {
+    display: flex;
+    align-items: center;
+  }
 
-.flying-image {
-  height: 8rem;
-  width: 8rem;
-  margin-right: 1rem;
-  /* Add any additional styles for the flying image */
-}
+  .flying-image {
+    height: 8rem;
+    width: 8rem;
+    margin-right: 1rem;
+    /* Add any additional styles for the flying image */
+  }
 
-.flying-description {
-  font-size: 18px;
-  color: white;
-  /* Add any additional styles for the flying description */
-}
+  .flying-description {
+    font-size: 18px;
+    color: white;
+    /* Add any additional styles for the flying description */
+  }
 </style>
