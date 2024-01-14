@@ -98,7 +98,6 @@
         This is the flying image description. It continuously floats up and down.
       </p>
     </div>
-  </section>
   </div>
 </template>
 
