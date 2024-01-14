@@ -69,7 +69,6 @@
         >Join Discord!</a
       ><a class="link" href="#features-section">Features</a>
     </div>
-  </section>
 
 <style scoped>
 .a {
