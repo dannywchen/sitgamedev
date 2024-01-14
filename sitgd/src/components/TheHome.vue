@@ -73,6 +73,7 @@
     <h2>Update Schedule</h2>
     <p>Leaderboard gets updated weekly while website gets updated once 2 days.</p>
     </div>
+  </div>
  </section>
 </template>
 
