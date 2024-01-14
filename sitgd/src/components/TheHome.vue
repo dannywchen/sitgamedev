@@ -32,6 +32,10 @@
       <div class="card">
         <div class="logo"></div>
         <h3 class="title">Purpose</h3>
+        <img
+      src="https://3.files.edl.io/989c/20/03/19/114812-30708864-cc30-4eeb-8975-6e7ff636fbd4.jpg"
+      alt="icon"
+          />
         <p class="description">
           This is the public release - full fledged website for SITH Game Dev!
           Enjoy and embrace the rich features. More components will be added.
@@ -43,11 +47,19 @@
       <div class="card">
         <div class="logo"></div>
         <h3 class="title">Trusted</h3>
+        <img
+      src="https://3.files.edl.io/989c/20/03/19/114812-30708864-cc30-4eeb-8975-6e7ff636fbd4.jpg"
+      alt="icon"
+    />
         <p class="description">Created by Danny, trusted vice president!</p>
       </div>
       <div class="card">
         <div class="logo"></div>
         <h3 class="title">Blog/Leaderboard</h3>
+        <img
+      src="https://3.files.edl.io/989c/20/03/19/114812-30708864-cc30-4eeb-8975-6e7ff636fbd4.jpg"
+      alt="icon"
+    />
         <p class="description">
           The blog will be updated from time to time, which provides deep
           insight on unreal engine 5 or ame dev news. There is also a
