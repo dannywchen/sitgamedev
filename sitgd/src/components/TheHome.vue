@@ -16,8 +16,8 @@
   </section>
   <section id="features-section">
     <svg
-      width="100vw"
-      height="200px"
+      width="200vw"
+      height="300px"
       viewbox="0 0 500 250"
       xmlns="http://www.w3.org/2000/svg"
     >
