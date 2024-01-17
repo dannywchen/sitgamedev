@@ -82,12 +82,12 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>5. Johonathon Liu</p>
+        <p>1. Jonathan Liu</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill progress-fill-5"></div>
           </div>
-          <div class="progress-value">50 points</div>
+          <div class="progress-value">100000 points</div>
         </div>
       </div>
     </div>
