@@ -5,7 +5,6 @@
     <section class="a">
       <img
         src="https://3.files.edl.io/989c/20/03/19/114812-30708864-cc30-4eeb-8975-6e7ff636fbd4.jpg"
-        alt="icon"
       />
       <h2>SITHS | Game Dev</h2>
       <p>SITHS Game Dev introduces you to the newly released website.</p>
@@ -34,8 +33,8 @@
           <div class="logo"></div>
           <h3 class="title">Purpose</h3>
           <img
+            class="icon"
             src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961508232966174/R.png?ex=65b5e4f3&is=65a36ff3&hm=d83a53a466acf4a44dc6e9cb9771536d3a7654d5d4dff31266feba23be7cd895&"
-            alt="icon"
           />
           <p class="description">
             This is the public release - full-fledged website for SITH Game Dev!
@@ -51,8 +50,8 @@
           <div class="logo"></div>
           <h3 class="title">Trusted</h3>
           <img
-            src="https://cdn.discordapp.com/attachments/1103178036809043968/1195962083251064832/lock.jpg?ex=65b5e57c&is=65a3707c&hm=78ca2f4a14b4608c92641f78bca8653f953ec6148d5298310f7674858d50171a&"
-            alt="icon"
+            class="icon"
+            src="https://static.vecteezy.com/system/resources/previews/000/581/808/original/lock-icon-vector-illustration.jpg"
           />
           <p class="description">Created by Danny, trusted vice president!</p>
         </div>
@@ -60,8 +59,8 @@
           <div class="logo"></div>
           <h3 class="title">Blog/Leaderboard</h3>
           <img
-            src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961822570889356/joy.jpg?ex=65b5e53e&is=65a3703e&hm=2a6859524d501fc5273a61c3cb96d21fda4f36f1aaeb97dc0de4c0c4311e9533&"
-            alt="icon"
+            class="icon"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfLAlo4N9wOl183fClPnCQBnOqE3Jao-LqMJJkGx80mFJSqDKCCqjUxHwlvo3NLGQRkk&usqp=CAU"
           />
           <p class="description">
             The blog will be updated from time to time, which provides deep
@@ -72,32 +71,6 @@
         </div>
       </div>
     </section>
-    <section class="a">
-      <svg
-        width="200vw"
-        height="300px"
-        viewbox="0 0 500 250"
-        xmlns="http://www.w3.org/2000/svg"
-        >
-        <path
-          d="M0,96 L40,112 C100,128,200,160,290,144 C405,128,475,64,595,48 C676,32,705,90,855,100 C1135,100,1115,53,1295,58.7 C1375,64,1455,96,1635,120 C1735,120,1795,64,1864,48 L1964,32 L1964,0 L1964,0 L0,0 "
-          fill="var(--color-background-soft)"
-          fill-opacity="1"
-          />
-      </svg>
-      <h2>Update Schedule</h2>
-      <p>Leaderboard gets updated weekly while the website gets updated once every 2 days.</p>
-    </section>
-    <div class="flying-content">
-      <img
-        src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961822570889356/joy.jpg?ex=65b5e53e&is=65a3703e&hm=2a6859524d501fc5273a61c3cb96d21fda4f36f1aaeb97dc0de4c0c4311e9533&"
-        alt="flying-image"
-        class="flying-image"
-        />
-      <p class="flying-description">
-        This is the flying image description. It continuously floats up and down.
-      </p>
-    </div>
   </div>
 </template>
 
@@ -107,6 +80,7 @@
   flex-direction: column;
   align-items: center;
   width: auto;
+  padding-bottom: 7rem;
 }
 img {
   height: 10rem;
@@ -157,6 +131,7 @@ svg {
   display: flex;
   flex-direction: column;
   text-align: center;
+  align-items: center;
   width: 25%;
   background: var(--color-background);
   border-radius: 10px;
@@ -165,32 +140,9 @@ svg {
 .card h3 {
   margin-bottom: 1rem;
 }
-
-/* Styles for flying section */
-.flying-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: var(--color-background-mute);
-  padding: 2rem;
-  margin-top: 2rem;
-}
-
-.flying-content {
-  display: flex;
-  align-items: center;
-}
-
-.flying-image {
-  height: 8rem;
-  width: 8rem;
-  margin-right: 1rem;
-  /* Add any additional styles for the flying image */
-}
-
-.flying-description {
-  font-size: 18px;
-  color: white;
-  /* Add any additional styles for the flying description */
+.icon {
+  width: 35%;
+  height: auto;
+  mix-blend-mode: color-burn;
 }
 </style>
