@@ -104,12 +104,12 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>7. Johnny The S*x Slave</p>
+        <p>7. Johnny Chen</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-7"></div>
           </div>
-          <div class="progress-value">-333 points</div>
+          <div class="progress-value">10 points</div>
         </div>
       </div>
       <div class="rank">
