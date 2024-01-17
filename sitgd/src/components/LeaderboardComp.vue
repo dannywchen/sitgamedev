@@ -82,7 +82,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>5. Johnathon Liu</p>
+        <p>5. Johonathon Liu</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill progress-fill-5"></div>
