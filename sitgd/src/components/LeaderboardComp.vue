@@ -47,7 +47,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-1"></div>
           </div>
-          <div class="progress-value">999 points</div>
+          <div class="progress-value">∞ points</div>
         </div>
       </div>
       <div class="rank">
@@ -109,7 +109,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-7"></div>
           </div>
-          <div class="progress-value">10 points</div>
+          <div class="progress-value">46 points</div>
         </div>
       </div>
       <div class="rank">
@@ -370,7 +370,7 @@ p {
 
 @keyframes fillProgress1 {
   to {
-    width: 95%;
+    width: 100%;
   }
 }
 @keyframes fillProgress2 {
@@ -400,7 +400,7 @@ p {
 }
 @keyframes fillProgress7 {
   to {
-    width: 10%;
+    width: 60%;
   }
 }
 @keyframes fillProgress8 {
