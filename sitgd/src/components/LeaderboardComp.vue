@@ -47,7 +47,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-1"></div>
           </div>
-          <div class="progress-value">100 points</div>
+          <div class="progress-value">999 points</div>
         </div>
       </div>
       <div class="rank">
@@ -82,19 +82,19 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>5. Jason Shi</p>
+        <p>5. Johnathon Liu</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill progress-fill-5"></div>
           </div>
-          <div class="progress-value">48 points</div>
+          <div class="progress-value">50 points</div>
         </div>
       </div>
     </div>
     <div v-if="group2Vis" class="rank-group">
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>6. Jonathan Liu</p>
+        <p>6. Jason Shi</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-6"></div>
@@ -104,12 +104,12 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>7. Katherine Z</p>
+        <p>7. Johnny The S*x Slave</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-7"></div>
           </div>
-          <div class="progress-value">0 points</div>
+          <div class="progress-value">-333 points</div>
         </div>
       </div>
       <div class="rank">
@@ -400,7 +400,7 @@ p {
 }
 @keyframes fillProgress7 {
   to {
-    width: 0%;
+    width: 10%;
   }
 }
 @keyframes fillProgress8 {
