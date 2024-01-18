@@ -8,7 +8,7 @@ console.log("apple");
   <div class="all">
     <header>
       <div class="wrapper">
-        <h1>SITHS | Game Dev</h1>
+        <RouterLink to="/"><h1>SITHS | Game Dev</h1></RouterLink>
 
         <nav>
           <RouterLink to="/">Home</RouterLink>
