@@ -80,7 +80,8 @@
   flex-direction: column;
   align-items: center;
   width: auto;
-  padding-bottom: 7rem;
+  padding: 10rem 0 7rem 0;
+  background-color: var(--color-background-soft);
 }
 img {
   height: 10rem;

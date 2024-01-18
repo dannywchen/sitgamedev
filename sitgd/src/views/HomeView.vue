@@ -9,8 +9,4 @@ import Home from "../components/TheHome.vue";
   </main>
 </template>
 
-<style scoped>
-main {
-  padding: 10rem 0 0 0;
-}
-</style>
+<style scoped></style>

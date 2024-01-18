@@ -4,14 +4,13 @@ body,
 html,
 * {
   scroll-behavior: smooth;
-  scrollbar-color: var(--c-red);
   color: var(--c-red);
   padding: 0;
   margin: 0;
 }
 body,
 html {
-  background: var(--color-background-soft);
+  background: var(--color-background-mute);
 }
 
 p {
