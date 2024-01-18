@@ -1,7 +1,7 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
 
-console.log("orange");
+console.log("apple");
 </script>
 
 <template>
