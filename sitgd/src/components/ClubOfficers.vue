@@ -39,7 +39,7 @@
         <div class="profile">
           <div class="img">
             <img
-              src="https://cdn.discordapp.com/attachments/1059117689286692885/1190511525677506590/OIP.png?ex=65a21142&is=658f9c42&hm=fb9880d9c3200c1ff70b843dea5ad52f0c87536b3af5aacc377ab10d8f106286"
+              src="https://cdn.discordapp.com/attachments/917589799299321897/1201760248734691358/DALLE_2024-01-30_00.25.54_-_A_professional_logo_for_a_game_development_company._The_logo_should_be_modern_sleek_and_convey_a_sense_of_creativity_and_technological_innovation._I.png?ex=65cafd72&is=65b88872&hm=02c61c0f389d8887587c44dc54b6a15531253701de55ef0605502740f12de0e3&"
             />
           </div>
           <h3>Jack Shen</h3>
@@ -55,7 +55,7 @@
           <p>Vice President</p>
         </div>
         <div class="profile">
-          <div class="img"><img src="" /></div>
+          <div class="img"><img src="https://cdn.discordapp.com/attachments/917589799299321897/1201760248734691358/DALLE_2024-01-30_00.25.54_-_A_professional_logo_for_a_game_development_company._The_logo_should_be_modern_sleek_and_convey_a_sense_of_creativity_and_technological_innovation._I.png?ex=65cafd72&is=65b88872&hm=02c61c0f389d8887587c44dc54b6a15531253701de55ef0605502740f12de0e3&" /></div>
           <h3>Jason Shi</h3>
           <p>Event Coordinator</p>
         </div>
