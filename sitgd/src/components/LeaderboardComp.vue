@@ -375,7 +375,7 @@ p {
 }
 @keyframes fillProgress2 {
   to {
-    width: 90%;
+    width: 98%;
   }
 }
 @keyframes fillProgress3 {
@@ -390,12 +390,12 @@ p {
 }
 @keyframes fillProgress5 {
   to {
-    width: 75%;
+    width: 80%;
   }
 }
 @keyframes fillProgress6 {
   to {
-    width: 70%;
+    width: 80%;
   }
 }
 @keyframes fillProgress7 {
@@ -405,42 +405,42 @@ p {
 }
 @keyframes fillProgress8 {
   to {
-    width: 0%;
+    width: 30%;
   }
 }
 @keyframes fillProgress9 {
   to {
-    width: 0%;
+    width: 30%;
   }
 }
 @keyframes fillProgress10 {
   to {
-    width: 0%;
+    width: 30%;
   }
 }
 @keyframes fillProgress11 {
   to {
-    width: 0%;
+    width: 30%;
   }
 }
 @keyframes fillProgress12 {
   to {
-    width: 0%;
+    width: 30%;
   }
 }
 @keyframes fillProgress13 {
   to {
-    width: 0%;
+    width: 30%;
   }
 }
 @keyframes fillProgress14 {
   to {
-    width: 0%;
+    width: 30%;
   }
 }
 @keyframes fillProgress15 {
   to {
-    width: 0%;
+    width: 30%;
   }
 }
 </style>
