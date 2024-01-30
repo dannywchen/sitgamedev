@@ -9,7 +9,7 @@ import ClubOfficers from "../components/ClubOfficers.vue";
 <style scoped>
 main {
   padding: 10rem 0 70px 0;
-  background: url("https://cdn.discordapp.com/attachments/1164387540850188348/1201768653310402610/DALLE_2024-01-30_00.59.23_-_Create_a_4K_resolution_background_image_for_a_game_development_website_with_a_beautiful_anime-style_scenery_optimized_for_text_visibility._The_image_.png?ex=65cb0546&is=65b89046&hm=fffbb4ab6139bb181d933d8147021b59637b68b25967e8653b37f70eda45c685&");
+  background: url("https://cdn.discordapp.com/attachments/1164387540850188348/1201770593087922186/DALLE_2024-01-30_01.07.08_-_Create_a_4K_resolution_background_image_for_a_game_development_website._The_scene_should_be_a_beautiful_grand_and_heavenly_anime-style_landscape._Th.png?ex=65cb0715&is=65b89215&hm=bb5757f170e0b2cee6ff03eaa01092e6c1fd14f0460892a4eae072eee9b3d5f6&");
   background-size: cover;
 }
 </style>
