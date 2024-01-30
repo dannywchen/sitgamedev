@@ -5,7 +5,7 @@
 # Info
 
 ## This is a public release of the SITH Game Development Website.
-Visit the official website using this link: https://sitgamedev.netlify.app/
+Visit the official website using this link: https://sithgamedev.netlify.app/
 Visit the official linktree using this link: [WIP]
 Creators/Collborators: Danny Chen, Ryan Chen
 
