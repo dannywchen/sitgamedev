@@ -34,7 +34,7 @@
           <h3 class="title">Purpose</h3>
           <img
             class="icon"
-            src="https://cdn.discordapp.com/attachments/1103178036809043968/1195961508232966174/R.png?ex=65b5e4f3&is=65a36ff3&hm=d83a53a466acf4a44dc6e9cb9771536d3a7654d5d4dff31266feba23be7cd895&"
+            src="https://cdn.discordapp.com/attachments/917589799299321897/1201766759334678599/DALLE_2024-01-30_00.51.52_-_A_modern_dynamic_logo_representing_SITH_Game_Dev_suitable_for_a_game_development_website._The_logo_should_include_a_futuristic_font_spelling_out_.png?ex=65cb0383&is=65b88e83&hm=a10a4da999db658b32ab46a818cd2d503b6a57b2d7267abf1547772cc4c549c5&"
           />
           <p class="description">
             This is the public release - full-fledged website for SITH Game Dev!
@@ -51,7 +51,7 @@
           <h3 class="title">Trusted</h3>
           <img
             class="icon"
-            src="https://static.vecteezy.com/system/resources/previews/000/581/808/original/lock-icon-vector-illustration.jpg"
+            src="https://cdn.discordapp.com/attachments/1164387540850188348/1201767502871543838/DALLE_2024-01-30_00.54.47_-_A_sleek_and_modern_logo_featuring_the_text_Created_by_Danny_Trusted_Vice_President_for_a_game_development_project._The_logo_should_have_a_gaming_an.png?ex=65cb0434&is=65b88f34&hm=2baee029f86f154b21d0e76c13c44a52a6a73003e00c26206a62722e7d4ec34d&"
           />
           <p class="description">Created by Danny, trusted vice president!</p>
         </div>
@@ -60,7 +60,7 @@
           <h3 class="title">Blog/Leaderboard</h3>
           <img
             class="icon"
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfLAlo4N9wOl183fClPnCQBnOqE3Jao-LqMJJkGx80mFJSqDKCCqjUxHwlvo3NLGQRkk&usqp=CAU"
+            src="https://cdn.discordapp.com/attachments/1164387540850188348/1201767756144316496/DALLE_2024-01-30_00.55.49_-_Design_a_logo_for_a_gaming_development_blog_that_highlights_its_focus_on_Unreal_Engine_5_and_gaming_news_with_a_feature_on_competitive_leaderboards._.png?ex=65cb0470&is=65b88f70&hm=c670353c5c60e541aebca87086067b1780a9359f25564278da582939599c306c&"
           />
           <p class="description">
             The blog will be updated from time to time, which provides deep
