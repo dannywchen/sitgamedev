@@ -127,7 +127,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>1. Jonathan Liu</p>
+        <p>5. Jonathan Liu</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill progress-fill-5"></div>
@@ -244,22 +244,22 @@ export default {
       <!-- Ranks 16-20 -->
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>6. Jason Shi</p>
+        <p>16. Ben F</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-6"></div>
+            <div class="progress-fill4 progress-fill-16"></div>
           </div>
-          <div class="progress-value">240 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>7. Johnny Chen</p>
+        <p>7. Izzy Z</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-7"></div>
+            <div class="progress-fill4 progress-fill-17"></div>
           </div>
-          <div class="progress-value">146 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -267,9 +267,9 @@ export default {
         <p>8. Abdul T</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-8"></div>
+            <div class="progress-fill4 progress-fill-18"></div>
           </div>
-          <div class="progress-value">120 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -277,9 +277,9 @@ export default {
         <p>9. Andrew Chen</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-9"></div>
+            <div class="progress-fill4 progress-fill-19"></div>
           </div>
-          <div class="progress-value">110 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -287,9 +287,9 @@ export default {
         <p>10. katherine</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-10"></div>
+            <div class="progress-fill4 progress-fill-20"></div>
           </div>
-          <div class="progress-value">110 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
     </div>
@@ -300,9 +300,9 @@ export default {
         <p>6. Jason Shi</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-6"></div>
+            <div class="progress-fill5 progress-fill-21"></div>
           </div>
-          <div class="progress-value">240 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -310,9 +310,9 @@ export default {
         <p>7. Johnny Chen</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-7"></div>
+            <div class="progress-fill5 progress-fill-22"></div>
           </div>
-          <div class="progress-value">146 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -320,9 +320,9 @@ export default {
         <p>8. Abdul T</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-8"></div>
+            <div class="progress-fill5 progress-fill-23"></div>
           </div>
-          <div class="progress-value">120 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -330,9 +330,9 @@ export default {
         <p>9. Andrew Chen</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-9"></div>
+            <div class="progress-fill5 progress-fill-24"></div>
           </div>
-          <div class="progress-value">110 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -340,9 +340,9 @@ export default {
         <p>10. katherine</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-10"></div>
+            <div class="progress-fill5 progress-fill-25"></div>
           </div>
-          <div class="progress-value">110 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
     </div>
@@ -353,9 +353,9 @@ export default {
         <p>6. Jason Shi</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-6"></div>
+            <div class="progress-fill6 progress-fill-26"></div>
           </div>
-          <div class="progress-value">240 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -363,9 +363,9 @@ export default {
         <p>7. Johnny Chen</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-7"></div>
+            <div class="progress-fill6 progress-fill-27"></div>
           </div>
-          <div class="progress-value">146 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -373,9 +373,9 @@ export default {
         <p>8. Abdul T</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-8"></div>
+            <div class="progress-fill6 progress-fill-28"></div>
           </div>
-          <div class="progress-value">120 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -383,9 +383,9 @@ export default {
         <p>9. Andrew Chen</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-9"></div>
+            <div class="progress-fill6 progress-fill-29"></div>
           </div>
-          <div class="progress-value">110 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
       <div class="rank">
@@ -393,9 +393,9 @@ export default {
         <p>10. katherine</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill2 progress-fill-10"></div>
+            <div class="progress-fill6 progress-fill-30"></div>
           </div>
-          <div class="progress-value">110 points</div>
+          <div class="progress-value">200 points</div>
         </div>
       </div>
     </div>
@@ -505,6 +505,30 @@ p {
 }
 
 .progress-fill3 {
+  height: 100%;
+  border-radius: 10px;
+  background-color: #f54254;
+  width: 0;
+  animation: fillProgress 2.35s ease-in-out backwards;
+}
+
+.progress-fill4 {
+  height: 100%;
+  border-radius: 10px;
+  background-color: #f54254;
+  width: 0;
+  animation: fillProgress 2.35s ease-in-out backwards;
+}
+
+.progress-fill5 {
+  height: 100%;
+  border-radius: 10px;
+  background-color: #f54254;
+  width: 0;
+  animation: fillProgress 2.35s ease-in-out backwards;
+}
+
+.progress-fill6 {
   height: 100%;
   border-radius: 10px;
   background-color: #f54254;
