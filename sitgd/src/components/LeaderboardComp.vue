@@ -7,6 +7,9 @@ export default {
       group1Vis: ref(true),
       group2Vis: ref(false),
       group3Vis: ref(false),
+      group4Vis: ref(false),
+      group5Vis: ref(false),
+      group6Vis: ref(false),
     };
   },
   methods: {
@@ -14,16 +17,54 @@ export default {
       this.group1Vis = true;
       this.group2Vis = false;
       this.group3Vis = false;
+      this.group4Vis = false;
+      this.group5Vis = false;
+      this.group6Vis = false;
+      
     },
     btn2() {
       this.group1Vis = false;
       this.group2Vis = true;
       this.group3Vis = false;
+      this.group4Vis = false;
+      this.group5Vis = false;
+      this.group6Vis = false;
+      
     },
     btn3() {
       this.group1Vis = false;
       this.group2Vis = false;
       this.group3Vis = true;
+      this.group4Vis = false;
+      this.group5Vis = false;
+      this.group6Vis = false;
+
+    },
+    btn4() {
+      this.group1Vis = false;
+      this.group2Vis = false;
+      this.group3Vis = false;
+      this.group4Vis = true;
+      this.group5Vis = false;
+      this.group6Vis = false;
+
+    },
+    btn5() {
+      this.group1Vis = false;
+      this.group2Vis = false;
+      this.group3Vis = false;
+      this.group4Vis = false;
+      this.group5Vis = true;
+      this.group6Vis = false;
+
+    },
+    btn6() {
+      this.group1Vis = false;
+      this.group2Vis = false;
+      this.group3Vis = false;
+      this.group4Vis = false;
+      this.group5Vis = false;
+      this.group6Vis = true;
     },
   },
 };
@@ -36,7 +77,11 @@ export default {
     <div class="buttons">
       <button @click="btn1">Rank 1-5</button
       ><button @click="btn2">Rank 6-10</button
-      ><button @click="btn3">Rank 11-15</button>
+      ><button @click="btn3">Rank 11-15</button
+      ><button @click="btn4">Rank 16-20</button
+      ><button @click="btn5">Rank 21-25</button
+      ><button @click="btn6">Rank 25-30</button>
+                                         
     </div>
 
     <div v-if="group1Vis" class="rank-group">
@@ -192,6 +237,45 @@ export default {
             <div class="progress-fill3 progress-fill-15"></div>
           </div>
           <div class="progress-value">100 points</div>
+        </div>
+      </div>
+    </div>
+        <div v-if="group4Vis" class="rank-group">
+      <!-- Ranks 16-20 -->
+      <div class="rank" v-for="rank in 5" :key="`rank-16-${rank}`">
+        <div class="circle">⭐</div>
+        <p>WIP</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill" style="width: 0%;"></div>
+          </div>
+          <div class="progress-value">0 points</div>
+        </div>
+      </div>
+    </div>
+    <div v-if="group5Vis" class="rank-group">
+      <!-- Ranks 21-25 -->
+      <div class="rank" v-for="rank in 5" :key="`rank-21-${rank}`">
+        <div class="circle">⭐</div>
+        <p>WIP</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill" style="width: 0%;"></div>
+          </div>
+          <div class="progress-value">0 points</div>
+        </div>
+      </div>
+    </div>
+    <div v-if="group6Vis" class="rank-group">
+      <!-- Ranks 26-30 -->
+      <div class="rank" v-for="rank in 5" :key="`rank-26-${rank}`">
+        <div class="circle">⭐</div>
+        <p>WIP</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill" style="width: 0%;"></div>
+          </div>
+          <div class="progress-value">0 points</div>
         </div>
       </div>
     </div>
