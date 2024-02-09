@@ -242,40 +242,160 @@ export default {
     </div>
         <div v-if="group4Vis" class="rank-group">
       <!-- Ranks 16-20 -->
-      <div class="rank" v-for="rank in 5" :key="`rank-16-${rank}`">
+      <div class="rank">
         <div class="circle">⭐</div>
-        <p>WIP</p>
+        <p>6. Jason Shi</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill" style="width: 0%;"></div>
+            <div class="progress-fill2 progress-fill-6"></div>
           </div>
-          <div class="progress-value">0 points</div>
+          <div class="progress-value">240 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>7. Johnny Chen</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-7"></div>
+          </div>
+          <div class="progress-value">146 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>8. Abdul T</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-8"></div>
+          </div>
+          <div class="progress-value">120 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>9. Andrew Chen</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-9"></div>
+          </div>
+          <div class="progress-value">110 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>10. katherine</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-10"></div>
+          </div>
+          <div class="progress-value">110 points</div>
         </div>
       </div>
     </div>
     <div v-if="group5Vis" class="rank-group">
       <!-- Ranks 21-25 -->
-      <div class="rank" v-for="rank in 5" :key="`rank-21-${rank}`">
+      <div class="rank">
         <div class="circle">⭐</div>
-        <p>WIP</p>
+        <p>6. Jason Shi</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill" style="width: 0%;"></div>
+            <div class="progress-fill2 progress-fill-6"></div>
           </div>
-          <div class="progress-value">0 points</div>
+          <div class="progress-value">240 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>7. Johnny Chen</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-7"></div>
+          </div>
+          <div class="progress-value">146 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>8. Abdul T</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-8"></div>
+          </div>
+          <div class="progress-value">120 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>9. Andrew Chen</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-9"></div>
+          </div>
+          <div class="progress-value">110 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>10. katherine</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-10"></div>
+          </div>
+          <div class="progress-value">110 points</div>
         </div>
       </div>
     </div>
     <div v-if="group6Vis" class="rank-group">
       <!-- Ranks 26-30 -->
-      <div class="rank" v-for="rank in 5" :key="`rank-26-${rank}`">
+      <div class="rank">
         <div class="circle">⭐</div>
-        <p>WIP</p>
+        <p>6. Jason Shi</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
-            <div class="progress-fill" style="width: 0%;"></div>
+            <div class="progress-fill2 progress-fill-6"></div>
           </div>
-          <div class="progress-value">0 points</div>
+          <div class="progress-value">240 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>7. Johnny Chen</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-7"></div>
+          </div>
+          <div class="progress-value">146 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>8. Abdul T</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-8"></div>
+          </div>
+          <div class="progress-value">120 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>9. Andrew Chen</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-9"></div>
+          </div>
+          <div class="progress-value">110 points</div>
+        </div>
+      </div>
+      <div class="rank">
+        <div class="circle">⭐</div>
+        <p>10. katherine</p>
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-fill2 progress-fill-10"></div>
+          </div>
+          <div class="progress-value">110 points</div>
         </div>
       </div>
     </div>
@@ -451,6 +571,67 @@ p {
   background-color: #384e78;
   animation: fillProgress15 2.35s ease-in-out forwards;
 }
+.progress-fill-16 {
+  background-color: #031b88;
+  animation: fillProgress1 2.35s ease-in-out forwards;
+}
+.progress-fill-17 {
+  background-color: #6096fd;
+  animation: fillProgress2 2.35s ease-in-out forwards;
+}
+.progress-fill-18 {
+  background-color: #aab6fb;
+  animation: fillProgress3 2.35s ease-in-out forwards;
+}
+.progress-fill-19 {
+  background-color: #fb7b8e;
+  animation: fillProgress4 2.35s ease-in-out forwards;
+}
+.progress-fill-20 {
+  background-color: #faa7b8;
+  animation: fillProgress5 2.35s ease-in-out forwards;
+}
+.progress-fill-21 {
+  background-color: #ac92eb;
+  animation: fillProgress6 2.35s ease-in-out forwards;
+}
+.progress-fill-22 {
+  background-color: #4fc1e8;
+  animation: fillProgress7 2.35s ease-in-out forwards;
+}
+.progress-fill-23 {
+  background-color: #a0d568;
+  animation: fillProgress8 2.35s ease-in-out forwards;
+}
+.progress-fill-24 {
+  background-color: #ffce54;
+  animation: fillProgress9 2.35s ease-in-out forwards;
+}
+.progress-fill-25 {
+  background-color: #ed5564;
+  animation: fillProgress10 2.35s ease-in-out forwards;
+}
+.progress-fill-26 {
+  background-color: #6aab9c;
+  animation: fillProgress11 2.35s ease-in-out forwards;
+}
+.progress-fill-27 {
+  background-color: #fa9284;
+  animation: fillProgress12 2.35s ease-in-out forwards;
+}
+.progress-fill-28 {
+  background-color: #e06c78;
+  animation: fillProgress13 2.35s ease-in-out forwards;
+}
+.progress-fill-29 {
+  background-color: #5874dc;
+  animation: fillProgress14 2.35s ease-in-out forwards;
+}
+.progress-fill-30 {
+  background-color: #384e78;
+  animation: fillProgress15 2.35s ease-in-out forwards;
+}
+  
 
 @keyframes fillProgress1 {
   to {
@@ -523,6 +704,81 @@ p {
   }
 }
 @keyframes fillProgress15 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress16 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress17 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress18 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress19 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress20 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress21 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress22 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress23 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress24 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress25 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress26 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress27 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress28 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress29 {
+  to {
+    width: 30%;
+  }
+}
+@keyframes fillProgress30 {
   to {
     width: 30%;
   }
