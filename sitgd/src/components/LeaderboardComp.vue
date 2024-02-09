@@ -254,7 +254,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>7. Izzy Z</p>
+        <p>17. Izzy Z</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill4 progress-fill-17"></div>
@@ -264,7 +264,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>8. Max</p>
+        <p>18. Max</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill4 progress-fill-18"></div>
@@ -274,7 +274,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>9. Jackie</p>
+        <p>19. Jackie</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill4 progress-fill-19"></div>
@@ -284,7 +284,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>10. Jayden Y</p>
+        <p>20. Jayden Y</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill4 progress-fill-20"></div>
@@ -297,7 +297,7 @@ export default {
       <!-- Ranks 21-25 -->
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>6. Jerry Liu</p>
+        <p>21. Jerry Liu</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill5 progress-fill-21"></div>
@@ -307,7 +307,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>7. Johnny Lu</p>
+        <p>22. Johnny Lu</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill5 progress-fill-22"></div>
@@ -317,7 +317,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>8. Justin tam</p>
+        <p>23. Justin tam</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill5 progress-fill-23"></div>
@@ -327,7 +327,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>9. Karl</p>
+        <p>24. Karl</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill5 progress-fill-24"></div>
@@ -337,7 +337,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>10. Kevin Zhang</p>
+        <p>25. Kevin Zhang</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill5 progress-fill-25"></div>
@@ -350,7 +350,7 @@ export default {
       <!-- Ranks 26-30 -->
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>6. Noah Abbas</p>
+        <p>26. Noah Abbas</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill6 progress-fill-26"></div>
@@ -360,7 +360,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>7. Patrick lian</p>
+        <p>27. Patrick lian</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill6 progress-fill-27"></div>
@@ -370,7 +370,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>8. Raymond Dong</p>
+        <p>28. Raymond Dong</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill6 progress-fill-28"></div>
@@ -380,7 +380,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>9. Ryan Chen</p>
+        <p>29. Ryan Chen</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill6 progress-fill-29"></div>
@@ -390,7 +390,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>10. Xuanting lin</p>
+        <p>30. Xuanting lin</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill6 progress-fill-30"></div>
