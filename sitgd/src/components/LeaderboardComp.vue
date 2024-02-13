@@ -101,7 +101,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>3. Evan Gao</p>
+        <p>3. Johnny Chen</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill progress-fill-3"></div>
@@ -143,7 +143,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>7. Johnny Chen</p>
+        <p>7. Evan Gao</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-7"></div>
