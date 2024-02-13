@@ -86,7 +86,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-1"></div>
           </div>
-          <div class="progress-value">600 points</div>
+          <div class="progress-value">1000 points</div>
         </div>
       </div>
       <div class="rank">
@@ -96,7 +96,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-2"></div>
           </div>
-          <div class="progress-value">450 points</div>
+          <div class="progress-value">850 points</div>
         </div>
       </div>
       <div class="rank">
@@ -106,7 +106,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-3"></div>
           </div>
-          <div class="progress-value">400 points</div>
+          <div class="progress-value">700 points</div>
         </div>
       </div>
       <div class="rank">
@@ -116,7 +116,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-4"></div>
           </div>
-          <div class="progress-value">300 points</div>
+          <div class="progress-value">700 points</div>
         </div>
       </div>
       <div class="rank">
@@ -126,7 +126,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-5"></div>
           </div>
-          <div class="progress-value">290 points</div>
+          <div class="progress-value">690 points</div>
         </div>
       </div>
     </div>
@@ -138,7 +138,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-6"></div>
           </div>
-          <div class="progress-value">290 points</div>
+          <div class="progress-value">680 points</div>
         </div>
       </div>
       <div class="rank">
@@ -148,7 +148,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-7"></div>
           </div>
-          <div class="progress-value">270 points</div>
+          <div class="progress-value">650 points</div>
         </div>
       </div>
       <div class="rank">
@@ -158,7 +158,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-8"></div>
           </div>
-          <div class="progress-value">250 points</div>
+          <div class="progress-value">650 points</div>
         </div>
       </div>
       <div class="rank">
@@ -168,7 +168,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-9"></div>
           </div>
-          <div class="progress-value">240 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -178,7 +178,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill2 progress-fill-10"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
     </div>
@@ -190,7 +190,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill3 progress-fill-11"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -200,7 +200,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill3 progress-fill-12"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -210,7 +210,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill3 progress-fill-13"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -220,7 +220,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill3 progress-fill-14"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -230,7 +230,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill3 progress-fill-15"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
     </div>
@@ -243,7 +243,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill4 progress-fill-16"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -253,7 +253,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill4 progress-fill-17"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -263,7 +263,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill4 progress-fill-18"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -273,7 +273,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill4 progress-fill-19"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -283,7 +283,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill4 progress-fill-20"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
     </div>
@@ -296,7 +296,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill5 progress-fill-21"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -306,7 +306,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill5 progress-fill-22"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -316,7 +316,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill5 progress-fill-23"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -326,7 +326,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill5 progress-fill-24"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -336,7 +336,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill5 progress-fill-25"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
     </div>
@@ -349,7 +349,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill6 progress-fill-26"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -359,7 +359,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill6 progress-fill-27"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -369,7 +369,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill6 progress-fill-28"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -379,7 +379,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill6 progress-fill-29"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
       <div class="rank">
@@ -389,7 +389,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill6 progress-fill-30"></div>
           </div>
-          <div class="progress-value">200 points</div>
+          <div class="progress-value">600 points</div>
         </div>
       </div>
     </div>
