@@ -6,6 +6,16 @@ export default {};
   <div class="container">
     <h2>Blog</h2>
 
+    <h3>Week 1-5 Leaderboard Updated</h3>
+    <p>Published on: February 11, 2024</p>
+    <br />
+    <p>
+      Exciting news! The leaderboard has been updated, check your rank now to
+      see if you stand a chance to get $25!!! FYI: If you want anything to be
+      added, fill this:
+      <a href="https://forms.gle/nAT2tGQ69Db7i9KYA" target="_blank">Form</a>
+    </p>
+
     <br />
 
     <h3>New release of SITHS GAME DEV website</h3>
