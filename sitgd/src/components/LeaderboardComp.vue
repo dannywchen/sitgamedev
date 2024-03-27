@@ -86,7 +86,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-1"></div>
           </div>
-          <div class="progress-value">1000 points</div>
+          <div class="progress-value">2000 points</div>
         </div>
       </div>
       <div class="rank">
@@ -96,7 +96,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-2"></div>
           </div>
-          <div class="progress-value">850 points</div>
+          <div class="progress-value">1850 points</div>
         </div>
       </div>
       <div class="rank">
@@ -106,17 +106,17 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-3"></div>
           </div>
-          <div class="progress-value">700 points</div>
+          <div class="progress-value">1550 points</div>
         </div>
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>4. Jack Shen</p>
+        <p>4. Izzy Z</p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill progress-fill-4"></div>
           </div>
-          <div class="progress-value">700 points</div>
+          <div class="progress-value">1300 points</div>
         </div>
       </div>
       <div class="rank">
@@ -126,7 +126,7 @@ export default {
           <div class="progress-bar">
             <div class="progress-fill progress-fill-5"></div>
           </div>
-          <div class="progress-value">690 points</div>
+          <div class="progress-value">1205 points</div>
         </div>
       </div>
     </div>
@@ -248,7 +248,7 @@ export default {
       </div>
       <div class="rank">
         <div class="circle">⭐</div>
-        <p>17. Izzy Z</p>
+        <p>17. Jack </p>
         <div class="progress-bar-container">
           <div class="progress-bar">
             <div class="progress-fill4 progress-fill-17"></div>
